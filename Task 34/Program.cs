@@ -12,17 +12,6 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res; 
 }
 
-// void PrintArray(int[] massive)
-// {
-//     int count = massive.Length;
-//     int position = 0;
-//     while (position < count)
-//     {
-//         Console.Write(massive[position]);
-//         position++;
-//     }
-// }
-
 int GetCount(int[] numArray)
 {
     int count = 0; 
